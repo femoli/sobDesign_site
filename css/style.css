@@ -1,0 +1,36 @@
+body {
+    background: whitesmoke;
+    /*cor do site #eaecee*/
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+nav {
+    font-family: monospace;
+    font-size: 22px;
+}
+
+header {
+    font-family: monospace;
+    font-size: 12px;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-family: monospace;
+    font-size: x-large;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
