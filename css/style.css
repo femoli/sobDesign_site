@@ -2,10 +2,9 @@ body {
     background: white;
     /*cor do site #eaecee*/
     margin: 200px;
-    
 }
 
-nav {
+.navbar-nav {
     font-family: monospace;
     font-size: 22px;
 }
@@ -31,4 +30,13 @@ p {
 .img_padrao {
     margin-bottom: 20px;
     width: 300px;
+}
+
+.home {
+    background: rgb(253, 247, 247);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
