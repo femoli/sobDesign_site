@@ -1,10 +1,8 @@
 body {
-    background: whitesmoke;
+    background: white;
     /*cor do site #eaecee*/
-    margin-top: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 50px;
+    margin: 200px;
+    
 }
 
 nav {
